@@ -1,0 +1,6 @@
+name: lexicaldiversity-example
+channels:
+  - conda-forge
+dependencies:
+  - lexicalrichness
+  - textblob
