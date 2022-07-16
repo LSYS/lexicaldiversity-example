@@ -2,7 +2,7 @@
 
 [![badge](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSYS/lexicaldiversity-example/main?labpath=example.ipynb)
 
-This repo hosts the example `MyBinder` environment to the [`LexicalRichness`](https://pypi.org/project/lexicalrichness/) package on the cloud.
+This repo hosts the example `MyBinder` environment to the [`LexicalRichness`](https://pypi.org/project/lexicalrichness/) package on the [cloud](https://mybinder.org/v2/gh/LSYS/lexicaldiversity-example/main?labpath=example.ipynb).
 
 See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#readme) for more details about the `LexicalRichness` package.
 
