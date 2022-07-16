@@ -2,4 +2,6 @@ name: lexicaldiversity-example
 channels:
   - conda-forge
 dependencies:
+  - scipy
+  -lexicalrichness
   - textblob
