@@ -1,14 +1,17 @@
 # LexicalRichness
 
+[![badge](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSYS/lexicaldiversity-example/main?labpath=example.ipynb)
+<br>
+This repo hosts the example `MyBinder` environment to the [`LexicalRichness`](https://pypi.org/project/lexicalrichness/) package on the [cloud](https://mybinder.org/v2/gh/LSYS/lexicaldiversity-example/main?labpath=example.ipynb).
+<br>
+
+See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#readme) for more details about the `LexicalRichness` package.
+
+## Status
 [![Doc links](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml)
 <br>
 [![Trigger-Binder-build](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/binder.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/binder.yml)
 
-This repo hosts the example `MyBinder` environment to the [`LexicalRichness`](https://pypi.org/project/lexicalrichness/) package on the [cloud](https://mybinder.org/v2/gh/LSYS/lexicaldiversity-example/main?labpath=example.ipynb).
-<br>
-[![badge](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LSYS/lexicaldiversity-example/main?labpath=example.ipynb)
-
-See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#readme) for more details about the `LexicalRichness` package.
 
 <!---
 ---
