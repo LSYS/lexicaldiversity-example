@@ -10,6 +10,7 @@ This repo hosts the example `MyBinder` environment to the [`LexicalRichness`](ht
 
 See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#readme) for more details about the `LexicalRichness` package.
 
+<!---
 ---
 **Repo status**: 
 
@@ -22,3 +23,4 @@ See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#r
 
 ![GitHub](https://img.shields.io/github/license/lsys/lexicalrichness?color=maroon&label=License)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6612669.svg)](https://doi.org/10.5281/zenodo.6612669)
+--->
