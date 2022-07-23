@@ -1,10 +1,10 @@
-name: 'Trigger-Binder-build'
+name: 'Binder build'
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 * * 0'
     
 jobs:
   trigger-binder-build:
