@@ -1,4 +1,4 @@
-name: Notebook test run
+name: Notebook
 
 on:
   push:
