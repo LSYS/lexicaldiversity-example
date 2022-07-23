@@ -8,9 +8,11 @@ This repo hosts the example `MyBinder` environment to the [`LexicalRichness`](ht
 See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#readme) for more details about the `LexicalRichness` package.
 
 ## Status
-[![Doc links](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml)
+[![Notebook](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/notebook.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/notebook.yml)
 <br>
 [![Binder build](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/weekly.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/weekly.yml)
+<br>
+[![Doc links](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml)
 
 <!---
 ---
