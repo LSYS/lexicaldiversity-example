@@ -10,8 +10,7 @@ See [Documentation on the Github repo](https://github.com/LSYS/LexicalRichness#r
 ## Status
 [![Doc links](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/doclinks.yml)
 <br>
-[![Trigger-Binder-build](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/binder.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/binder.yml)
-
+[![Binder build](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/weekly.yml/badge.svg?branch=main)](https://github.com/LSYS/lexicaldiversity-example/actions/workflows/weekly.yml)
 
 <!---
 ---
