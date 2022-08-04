@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build_macOS:
+  build_ubuntu:
     name: Build Ubuntu wheel for python${{ matrix.python-version }}
     runs-on: ubuntu-latest
     strategy:
