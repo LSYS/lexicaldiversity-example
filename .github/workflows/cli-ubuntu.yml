@@ -1,4 +1,4 @@
-name: Notebook
+name: cli-ubuntu
 
 on:
   push:
