@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_ubuntu:
-    name: Build Ubuntu wheel for python${{ matrix.python-version }}
+    name: Build Ubuntu wheel
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
