@@ -6,8 +6,8 @@ on:
 
 jobs:
   build_macOS:
-    name: Build macOS wheel for python${{ matrix.python-version }}
-    runs-on: macos-latest
+    name: Build Ubuntu wheel for python${{ matrix.python-version }}
+    runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
